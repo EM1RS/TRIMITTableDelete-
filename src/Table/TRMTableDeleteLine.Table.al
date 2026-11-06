@@ -98,6 +98,23 @@ table 70701 "TRM Table Delete Line"
         field(180; "Delete Older Than"; Enum "TRM Delete Older Than")
         {
             Caption = 'Delete Older Than';
+
+            trigger OnValidate()
+            begin
+                if "Delete Older Than" <> "Delete Older Than"::"Custom Months" then
+                    "Older Than (Months)" := 0;
+            end;
+        }
+        field(210; "Older Than (Months)"; Integer)
+        {
+            Caption = 'Older Than (Months)';
+            MinValue = 0;
+
+            trigger OnValidate()
+            begin
+                if "Older Than (Months)" > 0 then
+                    "Delete Older Than" := "Delete Older Than"::"Custom Months";
+            end;
         }
         field(190; "Date Field No."; Integer)
         {
@@ -182,6 +199,12 @@ table 70701 "TRM Table Delete Line"
                 exit(CalcDate('<-6M>', Today));
             "Delete Older Than"::"1 Year":
                 exit(CalcDate('<-1Y>', Today));
+            "Delete Older Than"::"Custom Months":
+                begin
+                    if "Older Than (Months)" <= 0 then
+                        exit(0D);
+                    exit(CalcDate(StrSubstNo('<-%1M>', "Older Than (Months)"), Today));
+                end;
         end;
     end;
 

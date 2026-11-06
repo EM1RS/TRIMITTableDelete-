@@ -31,4 +31,8 @@ enum 70701 "TRM Delete Older Than"
     {
         Caption = '1 Year';
     }
+    value(7; "Custom Months")
+    {
+        Caption = 'Custom Months';
+    }
 }

@@ -55,6 +55,11 @@ page 70701 "TRM Table Delete Lines"
                     ApplicationArea = All;
                     ToolTip = 'Only delete records older than the selected period. Requires a Date Field to be set.';
                 }
+                field("Older Than (Months)"; Rec."Older Than (Months)")
+                {
+                    ApplicationArea = All;
+                    ToolTip = 'Number of months used when Delete Older Than is set to Custom Months. Records older than this many months are deleted.';
+                }
                 field("Date Field No."; Rec."Date Field No.")
                 {
                     ApplicationArea = All;
