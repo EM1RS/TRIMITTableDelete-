@@ -1,0 +1,824 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="TRIMIT Table Delete Tool">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2151324832 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Media Analysis Result</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Media Analysis Result - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2151324832 - Field 2591341917 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analysis Duration (ms)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Media Analysis Result - Field Analysis Duration (ms) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2151324832 - Field 2117196895 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analysis End</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Media Analysis Result - Field Analysis End - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2151324832 - Field 2446592438 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analysis Start</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Media Analysis Result - Field Analysis Start - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2151324832 - Field 3997336476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Media Analysis Result - Field Company Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2151324832 - Field 3749067253 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Empty Records</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Media Analysis Result - Field Empty Records - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2151324832 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Media Analysis Result - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2151324832 - Field 3070320983 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Media Analysis Result - Field Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2151324832 - Field 3531868071 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Media Analysis Result - Field Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2151324832 - Field 4079677382 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Media Analysis Result - Field Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2151324832 - Field 401751910 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Error</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Media Analysis Result - Field Last Error - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2151324832 - Field 3968731300 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Records With Media</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Media Analysis Result - Field Records With Media - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2151324832 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Media Analysis Result - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2151324832 - Field 3808951907 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Media Analysis Result - Field Table Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2151324832 - Field 3017471043 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Media Analysis Result - Field Table No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2151324832 - Field 1953468850 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Media References</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Media Analysis Result - Field Total Media References - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2151324832 - Field 4197613728 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Records</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Media Analysis Result - Field Total Records - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4024024493 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Delete Company</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Company - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4024024493 - Field 3997336476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Company - Field Company Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4024024493 - Field 90423963 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Selected for Deletion</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Company - Field Selected - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2483088926 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Delete Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2483088926 - Field 1090351696 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Active</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Line - Field Active - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2483088926 - Field 596754667 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Batch Size</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Line - Field Batch Size - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2483088926 - Field 99741621 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Completed Date/Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Line - Field Completed Date/Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2483088926 - Field 1460223235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Field Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Line - Field Date Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2483088926 - Field 611330467 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Field No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Line - Field Date Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2483088926 - Field 2547599622 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Records Deleted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Line - Field Delete Count - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2483088926 - Field 1873251774 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete Older Than</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Line - Field Delete Older Than - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2483088926 - Field 963147798 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Excluded</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Line - Field Excluded - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2483088926 - Field 401751910 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Error</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Line - Field Last Error - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2483088926 - Field 896323561 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Run Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Line - Field Last Run Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2483088926 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Line - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2483088926 - Field 211688558 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Media Table</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Line - Field Media Table - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2483088926 - Field 1712771946 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record Count</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Line - Field Record Count - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2483088926 - Field 1652910830 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Records Remaining</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Line - Field Records Remaining - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2483088926 - Field 2879136348 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Run Delete Trigger</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Line - Field Run Delete Trigger - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2483088926 - Field 3925491961 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Started Date/Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Line - Field Started Date/Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2483088926 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Line - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2483088926 - Field 1393533604 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Caption</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Line - Field Table Caption - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2483088926 - Field 3860796887 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Filters (View)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Line - Field Table Filters - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2483088926 - Field 3135334477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Line - Field Table ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2483088926 - Field 3808951907 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Line - Field Table Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2483088926 - Field 2183904876 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Filters</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Line - Field Use Filters - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3389254917 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Delete Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3389254917 - Field 2925429196 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete From All Companies</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Setup - Field All Companies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3389254917 - Field 3660015094 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default Batch Size</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Setup - Field Default Batch Size - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3389254917 - Field 1397020901 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default Run Delete Trigger</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Setup - Field Default Run Delete Trigger - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3389254917 - Field 2891538263 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enabled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Setup - Field Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3389254917 - Field 1369244348 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Run By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Setup - Field Last Run By - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3389254917 - Field 896323561 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Run Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Setup - Field Last Run Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3389254917 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3389254917 - Field 4049736046 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Require Confirmation Per Table</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRM Table Delete Setup - Field Require Confirmation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1356039400 - NamedType 2514640296" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analyzing media fields... #1## of #2##</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRM Table Delete Mgt. - NamedType AnalyzingMediaMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1356039400 - NamedType 2896296842" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table %1 is a system table and cannot be deleted directly. Use the standard Detached Media Cleanup for media tables.</source>
+          <note from="Developer" annotates="general" priority="2">%1=Table ID</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRM Table Delete Mgt. - NamedType BlockedSystemTableErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1356039400 - NamedType 3429848010" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cannot open table %1: %2</source>
+          <note from="Developer" annotates="general" priority="2">%1=Table ID, %2=Error</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRM Table Delete Mgt. - NamedType CannotOpenTableErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1356039400 - NamedType 1511454999" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Done.\Processed: %1 table(s)\Deleted: %2 records\Skipped/Failed: %3 table(s)</source>
+          <note from="Developer" annotates="general" priority="2">%1=Tables, %2=Deleted, %3=Skipped</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRM Table Delete Mgt. - NamedType CompletedAllMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1356039400 - NamedType 4283947207" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Confirm deletion:\Table ID: %1\Table: %2\Company: %3\Records: %4\Batch Size: %5\Run OnDelete Triggers: %6\\\Proceed?</source>
+          <note from="Developer" annotates="general" priority="2">%1=Table ID, %2=Table Name, %3=Company, %4=Record Count, %5=Batch Size, %6=Trigger Info</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRM Table Delete Mgt. - NamedType ConfirmDeleteDetailedQst</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1356039400 - NamedType 2554644633" size-unit="char" translate="yes" xml:space="preserve">
+          <source>WARNING: You are in a PRODUCTION environment!\\Deleting data here is permanent and cannot be undone.\\Are you absolutely sure you want to continue?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRM Table Delete Mgt. - NamedType ConfirmProductionQst</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1356039400 - NamedType 2054513400" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This will DELETE data from all active tables in the list.\\\Are you absolutely sure you want to continue?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRM Table Delete Mgt. - NamedType ConfirmRunAllQst</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1356039400 - NamedType 1072742187" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deleting #1##########\Records deleted: #2######</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRM Table Delete Mgt. - NamedType DeletingBatchMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1356039400 - NamedType 957649559" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Find all application tables containing Media or MediaSet fields?\This reads metadata only and does not scan table records.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRM Table Delete Mgt. - NamedType FindMediaConfirmQst</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1356039400 - NamedType 337732094" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No tables with Media or MediaSet fields were found, or all are already in the list.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRM Table Delete Mgt. - NamedType FindMediaNoneMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1356039400 - NamedType 4097800531" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Found %1 new table(s) with Media or MediaSet fields (%2 field(s) total across all discovered tables).</source>
+          <note from="Developer" annotates="general" priority="2">%1=Tables, %2=Fields</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRM Table Delete Mgt. - NamedType FindMediaResultMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1356039400 - NamedType 4213027799" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No active table delete lines found.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRM Table Delete Mgt. - NamedType NoActiveLinesErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1356039400 - NamedType 483605407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No media tables found in the list. Run Find Media Tables first.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRM Table Delete Mgt. - NamedType NoMediaTablesErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1356039400 - NamedType 3187705624" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No companies are selected for deletion. Use Manage Companies to select at least one company.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRM Table Delete Mgt. - NamedType NoSelectedCompaniesErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1356039400 - NamedType 2715195543" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Delete is not enabled. Enable it in the setup page first.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRM Table Delete Mgt. - NamedType NotEnabledErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1356039400 - NamedType 1702049220" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 selected companies</source>
+          <note from="Developer" annotates="general" priority="2">%1=Count of selected companies</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRM Table Delete Mgt. - NamedType SelectedCompaniesTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1356039400 - NamedType 978933812" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deleted %2 records from %1.</source>
+          <note from="Developer" annotates="general" priority="2">%1=Table Name, %2=Count</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRM Table Delete Mgt. - NamedType SingleTableCompletedMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1356039400 - NamedType 3134983226" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deletion of %1 failed:\%2</source>
+          <note from="Developer" annotates="general" priority="2">%1=Table Name, %2=Error</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRM Table Delete Mgt. - NamedType SingleTableFailedMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1356039400 - NamedType 3137231942" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Generic Media/MediaSet content inspection is not supported through FieldRef. A typed analyzer is required for this table and field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRM Table Delete Mgt. - NamedType UnsupportedFieldErr</note>
+        </trans-unit>
+        <trans-unit id="Page 3966395937 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Media Analysis Results</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Media Analysis Results - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3966395937 - Control 2591341917 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time taken to analyze this field in milliseconds.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Media Analysis Results - Control Analysis Duration (ms) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3966395937 - Control 2117196895 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>When analysis completed for this entry.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Media Analysis Results - Control Analysis End - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3966395937 - Control 2446592438 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>When analysis started for this entry.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Media Analysis Results - Control Analysis Start - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3966395937 - Control 3997336476 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The company analyzed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Media Analysis Results - Control Company Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3966395937 - Control 3749067253 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of records with no media in this field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Media Analysis Results - Control Empty Records - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3966395937 - Control 3070320983 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name of the Media or MediaSet field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Media Analysis Results - Control Field Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3966395937 - Control 3531868071 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field number of the Media or MediaSet field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Media Analysis Results - Control Field No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3966395937 - Control 4079677382 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Media or MediaSet.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Media Analysis Results - Control Field Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3966395937 - Control 401751910 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error message if analysis was skipped or failed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Media Analysis Results - Control Last Error - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3966395937 - Control 3968731300 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of records that have a media reference in this field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Media Analysis Results - Control Records With Media - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3966395937 - Control 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status of the analysis for this entry.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Media Analysis Results - Control Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3966395937 - Control 3808951907 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name of the analyzed table.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Media Analysis Results - Control Table Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3966395937 - Control 3017471043 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The ID of the analyzed table.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Media Analysis Results - Control Table No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3966395937 - Control 1953468850 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total media references found. For Media fields: equals Records With Media. For MediaSet fields: counted as 1 per non-empty record (exact item count not available via FieldRef).</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Media Analysis Results - Control Total Media References - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3966395937 - Control 4197613728 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total records scanned in the table.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Media Analysis Results - Control Total Records - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3966395937 - Action 3009384205 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete all analysis results.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Media Analysis Results - Action ClearResults - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3966395937 - Action 3009384205 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Clear All Results</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Media Analysis Results - Action ClearResults - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3298940671 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Delete Companies</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Companies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3298940671 - Control 3997336476 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company name.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Companies - Control Company Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3298940671 - Control 90423963 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select the companies where table data should be deleted.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Companies - Control Selected - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3298940671 - Action 2292392400 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Synchronize this list with all companies in the environment.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Companies - Action RefreshCompanies - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3298940671 - Action 2292392400 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Refresh Companies</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Companies - Action RefreshCompanies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 182010443 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Delete Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 182010443 - Control 1090351696 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Only active lines are processed during deletion.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Lines - Control Active - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 182010443 - Control 596754667 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of records to delete per batch (1-5000). Zero means default of 500.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Lines - Control Batch Size - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 182010443 - Control 99741621 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>When the deletion completed, failed, or was partially completed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Lines - Control Completed Date/Time - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 182010443 - Control 1460223235 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name of the date field used for age filtering.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Lines - Control Date Field Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 182010443 - Control 611330467 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Date or DateTime field used to determine record age for the Delete Older Than filter.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Lines - Control Date Field No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 182010443 - Control 2547599622 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of records deleted during the last or current run.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Lines - Control Delete Count - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 182010443 - Control 1873251774 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Only delete records older than the selected period. Requires a Date Field to be set.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Lines - Control Delete Older Than - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 182010443 - Control 401751910 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error from the last delete attempt, if any.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Lines - Control Last Error - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 182010443 - Control 896323561 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date and time of the last batch commit for this table.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Lines - Control Last Run Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 182010443 - Control 211688558 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Indicates this table contains Media or MediaSet fields (discovered via metadata).</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Lines - Control Media Table - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 182010443 - Control 1712771946 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of records in the table (updated when populated or refreshed).</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Lines - Control Record Count - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 182010443 - Control 1652910830 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Records remaining to be deleted.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Lines - Control Records Remaining - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 182010443 - Control 3925491961 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>When the deletion was started.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Lines - Control Started Date/Time - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 182010443 - Control 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Current status of the deletion for this line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Lines - Control Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 182010443 - Control 3860796887 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table view filter string to limit which records are deleted.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Lines - Control Table Filters - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 182010443 - Control 3135334477 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The ID of the table to delete data from.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Lines - Control Table ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 182010443 - Control 3808951907 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name of the table.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Lines - Control Table Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 182010443 - Control 2183904876 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>If enabled, only records matching the filter view are deleted.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Lines - Control Use Filters - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 182010443 - Action 3867096228 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Scan media tables for active Media/MediaSet references. Only inspects tables marked as Media Table. Results are stored persistently.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Lines - Action AnalyzeMedia - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 182010443 - Action 3867096228 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analyze Media References</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Lines - Action AnalyzeMedia - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 182010443 - Action 3757311821 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remove all lines from the list.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Lines - Action ClearList - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 182010443 - Action 3757311821 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Clear List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Lines - Action ClearList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 182010443 - Action 4289051840 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exclude the selected lines from the list. They will not reappear when populating.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Lines - Action DeleteLines - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 182010443 - Action 4289051840 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exclude Selected Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Lines - Action DeleteLines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 182010443 - Action 2134075589 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete data from only this table. If previously partially completed, continues from remaining records.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Lines - Action DeleteSingle - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 182010443 - Action 2134075589 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete This Table</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Lines - Action DeleteSingle - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 182010443 - Action 1516796112 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discover all application tables containing Media or MediaSet fields using metadata only. Does not scan table records.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Lines - Action FindMediaTables - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 182010443 - Action 1516796112 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Find Media Tables</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Lines - Action FindMediaTables - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 182010443 - Action 1799390999 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Refresh the current record counts for all lines.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Lines - Action RefreshCounts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 182010443 - Action 1799390999 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Refresh Record Counts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Lines - Action RefreshCounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 182010443 - Action 1461570459 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reset the status of this line to Ready so it can be run again.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Lines - Action ResetStatus - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 182010443 - Action 1461570459 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reset Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Lines - Action ResetStatus - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3389254917 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Delete Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3389254917 - Control 339591043 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Choose which companies to delete from using Manage Companies.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Setup - Control Companies - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 3389254917 - Control 339591043 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Companies</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Setup - Control Companies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3389254917 - Control 1100141636 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Defaults for New Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Setup - Control Defaults - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3389254917 - Control 3660015094 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default number of records to delete per batch when new lines are added. Valid range: 1-5000. Zero means 500.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Setup - Control Default Batch Size - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3389254917 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Setup - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3389254917 - Control 2891538263 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enable or disable the table delete functionality.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Setup - Control Enabled - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3389254917 - Control 4049736046 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>If enabled, each table deletion requires individual confirmation.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Setup - Control Require Confirmation - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3389254917 - Control 3471137671 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tables to Delete</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Setup - Control Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3389254917 - Control 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Run</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Setup - Control Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3389254917 - Control 1369244348 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User who performed the last deletion run.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Setup - Control Last Run By - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3389254917 - Control 896323561 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date and time of the last deletion run.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Setup - Control Last Run Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3389254917 - Control 3955473374 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This app deletes data permanently. Ensure you have a backup before running. In Production you will be asked for extra confirmation.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Setup - Control Warning - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 3389254917 - Control 3955473374 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>WARNING</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Setup - Control Warning - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3389254917 - Action 942970740 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select the companies where table data should be deleted.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Setup - Action ManageCompanies - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3389254917 - Action 942970740 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manage Companies</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Setup - Action ManageCompanies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3389254917 - Action 2269165859 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete data from all active tables in the list.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Setup - Action RunDeleteAll - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3389254917 - Action 2269165859 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Run Delete All</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRM Table Delete Setup - Action RunDeleteAll - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 620756219 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete Older Than</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TRM Delete Older Than - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 620756219 - EnumValue 1371923692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TRM Delete Older Than - EnumValue   - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 620756219 - EnumValue 1771723883 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>1 Month</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TRM Delete Older Than - EnumValue 1 Month - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 620756219 - EnumValue 3676307527 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>1 Week</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TRM Delete Older Than - EnumValue 1 Week - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 620756219 - EnumValue 3983495234 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>1 Year</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TRM Delete Older Than - EnumValue 1 Year - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 620756219 - EnumValue 568465923 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>2 Months</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TRM Delete Older Than - EnumValue 2 Months - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 620756219 - EnumValue 2283807924 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>3 Months</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TRM Delete Older Than - EnumValue 3 Months - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 620756219 - EnumValue 2133349631 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>6 Months</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TRM Delete Older Than - EnumValue 6 Months - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4240221564 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Delete Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TRM Table Delete Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4240221564 - EnumValue 4069904181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancelled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TRM Table Delete Status - EnumValue Cancelled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4240221564 - EnumValue 3665605423 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Completed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TRM Table Delete Status - EnumValue Completed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4240221564 - EnumValue 3826689261 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Failed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TRM Table Delete Status - EnumValue Failed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4240221564 - EnumValue 1003464309 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Partially Completed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TRM Table Delete Status - EnumValue Partially Completed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4240221564 - EnumValue 2521603205 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ready</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TRM Table Delete Status - EnumValue Ready - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4240221564 - EnumValue 1752522425 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Running</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TRM Table Delete Status - EnumValue Running - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4240221564 - EnumValue 2791901420 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Skipped</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TRM Table Delete Status - EnumValue Skipped - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4240221564 - EnumValue 2040889567 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unsupported</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TRM Table Delete Status - EnumValue Unsupported - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 1319128664 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TRIMIT Table Delete</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet TRM Table Delete - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

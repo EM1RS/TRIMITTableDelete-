@@ -1,0 +1,39 @@
+{
+  "id": "f1a2b3c4-d5e6-7890-abcd-ef1234567890",
+  "name": "TRIMIT Table Delete Tool",
+  "publisher": "TRIMIT Development A/S",
+  "version": "26.0.0.2",
+  "brief": "Utility app for emptying tables.",
+  "description": "Allows controlled deletion of table data via setup. Requires extra confirmation in Production environments.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "94927c12-6061-4e3f-b07d-ce1b66584585",
+      "name": "TRIMIT",
+      "publisher": "TRIMIT Development A/S",
+      "version": "25.2.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "27.0.0.0",
+  "application": "27.0.0.0",
+  "idRanges": [
+    {
+      "from": 70700,
+      "to": 70719
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "16.0",
+  "target": "Cloud",
+  "features": ["TranslationFile"],
+  "supportedLocales": ["en-US", "da-DK", "nb-NO"]
+}

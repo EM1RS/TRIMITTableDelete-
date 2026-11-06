@@ -1,0 +1,28 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+
+      {
+        "name": "FLO Sandbox ESO",
+        "type": "al",
+        "request": "launch",
+        "environmentType": "Sandbox",
+        "environmentName": "Sandbox_ESO",
+        "launchBrowser": true,
+        "tenant": "1313e9a2-6848-4bdb-9374-3aea1b0b0434",
+        "schemaUpdateMode":"ForceSync",
+        "breakOnError": "ExcludeTry"
+        },      
+        {
+        "name": "FLO Sandbox FLO",
+        "type": "al",
+        "request": "launch",
+        "environmentType": "Sandbox",
+        "environmentName": "Sandbox_FLO",
+        "launchBrowser": true,
+        "tenant": "1313e9a2-6848-4bdb-9374-3aea1b0b0434",
+        "schemaUpdateMode":"ForceSync",
+        "breakOnError": "ExcludeTry"
+        }
+      ]
+}
