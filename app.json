@@ -2,7 +2,7 @@
   "id": "f1a2b3c4-d5e6-7890-abcd-ef1234567890",
   "name": "TRIMIT Table Delete Tool",
   "publisher": "TRIMIT Development A/S",
-  "version": "26.0.0.2",
+  "version": "26.0.0.3",
   "brief": "Utility app for emptying tables.",
   "description": "Allows controlled deletion of table data via setup. Requires extra confirmation in Production environments.",
   "privacyStatement": "",
